@@ -35,7 +35,8 @@ Eu sou **Jeiel Lima Miranda**, especialista em **Segurança Digital** com foco e
 
 ## 📬 Entre em Contato
 
-Interessado em colaborar ou discutir segurança digital? Fique à vontade para me contatar! *(Funcionalidade em breve)*
+Interessado em colaborar ou discutir segurança digital? Fique à vontade para me contatar! 
+> kotdwc012@mozmail.com
 
 ---
 
