@@ -1,9 +1,9 @@
 # 👋 Bem-vindo(a) ao meu perfil!
 
-Eu sou **Jeiel Lima Miranda**, especialista em **Segurança Digital** com foco em **Ethical Hacking**, **DevOps** e **SOC Analyst**. Aqui você encontrará projetos e soluções voltados para proteger o mundo digital.
+Eu sou **Jeiel Lima Miranda**, especialista em **Segurança Digital** com foco em **Ethical Hacking**, **DevOps**, **SOC Analyst** e **Front End**.
 
 <p align="center">
-  <img src="https://jeiel.pages.dev/jeiel.png" alt="Foto de Jeiel Lima Miranda" width="150" style="border-radius:50%;">
+  <img src="https://jeiel.pages.dev/assets/jeiel-DLoUMvkh.png" alt="Foto de Jeiel Lima Miranda" width="150" style="border-radius:50%;">
 </p>
 
 ---
@@ -11,9 +11,9 @@ Eu sou **Jeiel Lima Miranda**, especialista em **Segurança Digital** com foco e
 ## 🔒 Quem Sou Eu?
 
 - **Especialista em:** Cibersegurança e automação  
-- **Paixão:** Tornar sistemas mais seguros e resilientes  
+- **Paixão:** Segurança cibernética e Front End.  
 - **Local:** Brasil  
-- **Missão:** Combinar tecnologia e criatividade para enfrentar ameaças digitais  
+- **Missão:** Combinar tecnologia e criatividade para enfrentar ameaças digitais e criar projetos de utilidade.
 
 ---
 
@@ -29,7 +29,7 @@ Eu sou **Jeiel Lima Miranda**, especialista em **Segurança Digital** com foco e
 
 ## 🌐 Conecte-se Comigo
 
-- [Cloudflare Pages](https://jeiel.pages.dev) - Veja meus projetos em ação  
+- https://jeielmiranda.is-a.dev/ - Site 
 
 ---
 
@@ -41,7 +41,7 @@ Interessado em colaborar ou discutir segurança digital? Fique à vontade para m
 ---
 
 *"A cibersegurança é a arte de proteger o invisível."*  
-Última atualização: 18 de março de 2025
+Última atualização: 21 de abril de 2025.
 
 ---
 <div align="center">
