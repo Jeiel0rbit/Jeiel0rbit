@@ -4,8 +4,7 @@
 ### 👋 Olá, sou Jeiel Miranda!
 Sou um entusiasta da tecnologia com 22 anos, sempre em busca de novos desafios e aprendizados. Este é o meu espaço no GitHub onde compartilho projetos e contribuições.
 
-> [!note]
-> [Contribuidor do TabNews. 😁](https://github.com/filipedeschamps/tabnews.com.br/pull/1900)
+[Contribuidor do TabNews. 😁](https://github.com/filipedeschamps/tabnews.com.br/pull/1900)
 
 </details>
 
