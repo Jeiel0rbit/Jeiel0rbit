@@ -6,6 +6,7 @@ Sou um entusiasta da tecnologia com 22 anos, sempre em busca de novos desafios e
 
 > [!note]
 > [Contribuidor do TabNews. 😁](https://github.com/filipedeschamps/tabnews.com.br/pull/1900)
+
 </details>
 
 <details>
