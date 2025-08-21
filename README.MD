@@ -46,8 +46,6 @@ Sou um entusiasta da tecnologia com 22 anos, sempre em busca de novos desafios e
 <summary>💻 DevCard Daily.dev</summary>
 
 <div align="center">
-  <a href="https://app.daily.dev/jeiel0rbit">
-    <img src="https://api.daily.dev/devcards/v2/DRypHCQwDNxABlQsVIPqX.png?type=wide&r=fc4" width="652" alt="Dev Card"/>
-  </a>
+  <a href="https://app.daily.dev/jeiel0rbit"><img src="https://api.daily.dev/devcards/v2/DRypHCQwDNxABlQsVIPqX.png?type=wide&r=7u0" width="652" alt="Jeiel0rbit's Dev Card"/></a>
 </div>
 </details>
